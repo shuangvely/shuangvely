@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Shuang (shuangvely) 👋</h1>
+<h1 align="center">Hey there! I'm Shuang 👋</h1>
 <p align="center">
   🎯 Data Analyst · 📊 Turning data into decisions · 📚 M.S. Analytics (Data Science) @ Georgia Tech (in progress)
 </p>
